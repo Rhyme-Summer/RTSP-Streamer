@@ -1,0 +1,10 @@
+Copyright (C) 2026 Summer Rhyme
+All Rights Reserved.
+
+This software is proprietary and confidential. 
+Unbindled redistribution or reverse engineering is prohibited.
+
+This package contains:
+- FFmpeg (Licensed under GPL v3)
+- MediaMTX (Licensed under MIT)
+See their respective directories for full license texts.
