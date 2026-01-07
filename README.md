@@ -1,7 +1,8 @@
 ## RTSP Streamer 使用说明
 
 **版本**：1.0.0  
-**产品名称**：RTSP Streamer  
+**产品名称**：RTSP Streamer
+**产品别称**：RTSP视频推流工具
 ---
 
 ### 1. 功能简介
